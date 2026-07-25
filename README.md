@@ -20,7 +20,7 @@
 -	Source: Netflix Movies and TV Shows Dataset
 -	Total Records: 8,807
 -	Features: 12 columns
-**Main columns include:**
+**Main columns include**
 -	Show ID
 -	Type
 -	Title
@@ -92,7 +92,7 @@
 ________________________________________
 ### Phase 4 – Python Exploratory Data Analysis (EDA)
 -	Used the cleaned dataset for Exploratory Data Analysis (EDA).
-**Performed:**
+**Performed**
 -	Dataset exploration
 -	Missing value analysis
 -	Movies vs TV Shows
@@ -102,7 +102,7 @@ ________________________________________
 -	Top Genres
 -	Top Directors
 -	Duration Analysis
-**Libraries used:**
+**Libraries used**
 -	Pandas
 -	Matplotlib
 ### Phase 5 – Power BI Dashboard
@@ -138,11 +138,11 @@ ________________________________________
 
 ## Dashboard Preview
 
-![Executive Overview](Netflix Dashboard_page-0001.jpg)
+![Executive_Overview](Netflix_Dashboard_page-0001.jpg)
 
-![Content Analysis](Netflix Dashboard_page-0002.jpg)
+![Content_Analysis](Netflix_Dashboard_page-0002.jpg)
 
-![Genre & Director Insights](Netflix Dashboard_page-0003.jpg)
+![Genre_Director_Insights](Netflix_Dashboard_page-0003.jpg)
 ---
 ⚠️ Challenges Faced During the Project
 Working with real-world datasets involved several practical challenges:
